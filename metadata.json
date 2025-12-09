@@ -1,0 +1,5 @@
+{
+  "name": "ClipCut AI",
+  "description": "A professional-grade web-based video editor featuring a multi-track timeline, real-time preview, and integrated Generative AI tools for creating video and image assets using Google Gemini and Veo models.",
+  "requestFramePermissions": []
+}
