@@ -2,6 +2,9 @@
 
 ClipCut AI is a professional-grade, web-based video editor built with React, TypeScript, and Vite. It seamlessly integrates Google's latest Generative AI models (Gemini & Veo) to empower creators to generate scripts, images, and video assets directly within the editing workflow.
 
+<img width="1920" height="1020" alt="7693348fd9d5df43153e12c1634ea0d1" src="https://github.com/user-attachments/assets/169304c7-8218-4bd8-9d73-1427a39de931" />
+
+
 ## Features
 
 - **Multi-track Timeline**: robust timeline supporting Video, Audio, Image, and Text tracks with layering capabilities.
